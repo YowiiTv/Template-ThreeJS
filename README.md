@@ -4,7 +4,7 @@ This is just me experimenting with [ThreeJS](https://threejs.org/) !
 
 ## Requirements
 
-- NodeJS 16+
+- NodeJS 16+ 
 
 ## Scripts
 
